@@ -23,6 +23,7 @@
 - Bump google.golang.org/protobuf from 1.36.6 to 1.36.7 ([#3841](https://github.com/cosmos/gaia/pull/3841))
 - Bump [docker/login-action](https://github.com/docker/login-action) from 3.4.0 to 3.5.0 ([#3842](https://github.com/cosmos/gaia/pull/3842))
 - Bump [actions/download-artifact](https://github.com/actions/download-artifact) from 4 to 5 ([#3843](https://github.com/cosmos/gaia/pull/3843))
+- Bump [github.com/cosmos/ibc-go/v10](https://github.com/cosmos/ibc-go) from 10.3.0 to 10.7.0 ([#14](https://github.com/jamesbrightmantech-sketch/gaia/pull/14))
 
 ## v25.1.0
 
